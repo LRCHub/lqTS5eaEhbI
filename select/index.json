@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハイドレンジア",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2025-12-17T13:40:07.180071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハイドレンジア",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/01_ハイドレンジア_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハイドレンジア",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/02_ハイドレンジア_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハイドレンジア",
+      "artist": "LonePi",
+      "has_synced": true,
+      "path": "select/03_ハイドレンジア_LonePi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハイドレンジア - HYdrangea",
+      "artist": "LonePi",
+      "has_synced": true,
+      "path": "select/04_ハイドレンジア_-_HYdrangea_LonePi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハイドレンジア",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/05_ハイドレンジア_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイドレンジア",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_ハイドレンジア_ヰ世界情緒.txt"
+    }
+  ]
+}
